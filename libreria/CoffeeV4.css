@@ -1,0 +1,66 @@
+body {
+	background-image:  url("bg.gif");
+	background-repeat: repeat-x;
+	background-color: #fff7ef;
+	font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+
+}
+h1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #b6b66c;
+	font-size: 48px;
+
+}
+#menu {
+	position: absolute;
+	width: 200px;
+	top: 80px;
+	left: 10px;
+	padding-top: 20px;
+	margin: 0px;
+
+
+
+}
+.floater {
+	position: absolute;
+	width: 200px;
+	left: 85%;
+	top: 80px;
+
+}
+#content {
+	margin-right: 20%;
+	margin-left: 225px;
+	margin-top: 20px;
+
+}
+#menu p {
+	color: #6F413D;
+	margin-left: 20px;
+}
+#menu a {
+
+	color: #6F413D;
+}
+.floater h3 {
+	color: #B6B66C;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 22px;
+
+
+}
+.floater p {
+	color: #6F413D;
+}
+#content h2 {
+	color: #333300;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 24px;
+
+
+}
+#content a {
+	color: #333300;
+}

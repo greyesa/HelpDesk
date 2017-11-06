@@ -1,0 +1,23 @@
+***********************************************
+Help Desk System Interactiva Web (C)2012
+Copyright (C)2004 Gustavo Reyes. Twitter: @greyes
+Todos los derechos reservados.
+http://www.interactivaweb.com
+contacto@interactivaweb.com
+Nueva liberación 18-5-2012
+Version.txt                     Dom/25/jul/2004
+***********************************************
+
+Acontinuación se muestran los datos del presente software:
+
+Versión del sistema: 1.1.0 Beta 3
+Autor: Gustavo Reyes Copyright (C)2000-2007
+Nombre de archivo: helpdesksystem[1.0.0].zip
+Licencia: GNU/GPL
+
+
+Cualquier duda comentario por favor escribenos o 
+visita nuestra web:
+
+contacto@poccms.com
+http://www.poccms.com

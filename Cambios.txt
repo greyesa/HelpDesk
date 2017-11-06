@@ -1,0 +1,56 @@
+***********************************************
+Help Desk System Interactiva Web (C)2012
+Copyright (C)2004 Gustavo Reyes. Twitter: @greyes
+Todos los derechos reservados.
+http://www.interactivaweb.com
+contacto@interactivaweb.com
+Nueva liberación 18-5-2012
+Cambios.txt                     Dom/25/jul/2004
+***********************************************
+
+
+
+===================================================
+Versión 1.0.0 Beta 2 (Jueves 12 de Agostro del 2004)
+===================================================
+[Primera Versión]
+- Agregar el sistema de mensajes privados para los usuarios del sistema.
+- Cambiar menu principal.
+- Cambiar primera interfaz para registros para mostrar directamente tareas pendientes.
+- Agregar la tabla puestos, para poder formar bd de los puestos o cargos para los contactos.
+- Cambiar proporcion de tablas.
+- Agregar el modulo para buscar ordenes.
+- Agregar enlace para ingresar cuenta manualmente con fecha.
+- Incluir la tabla departamento en la visualización de orden.
+
+
+*****************************
+Colaboradores en esta versión
+-Gustavo Reyes
+-Walter Herrera
+*****************************
+
+
+===================================================
+Versión 1.0.0 Beta 1 (Dimingo 25 de Julio del 2004)
+===================================================
+[Primera Versión]
+- Formato de diseño.
+- Control de seguridad básico (un administrador).
+- ingresar modulo de departamentos.
+- ingresar modulo de personal.
+- ingresar modulo de registros.
+- ingresar modulo de reportes.
+- ingresar modulo de ayuda para el programa.
+- ingresar modulo información del programa.
+- ingresar modulo calendario (solo visualización).
+- ingresar modulo de configuración.
+- ingresar modulo contactos.
+
+
+*****************************
+Colaboradores en esta versión
+-Gustavo Reyes
+-Walter Herrera
+*****************************
+

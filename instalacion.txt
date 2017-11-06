@@ -1,0 +1,40 @@
+***********************************************
+Help Desk System Interactiva Web (C)2012
+Copyright (C)2004 Gustavo Reyes. Twitter: @greyes
+Todos los derechos reservados.
+http://www.interactivaweb.com
+contacto@interactivaweb.com
+Nueva liberación 18-5-2012
+Cambios.txt                     Dom/25/jul/2004
+***********************************************
+
+
+Requisitos de Instalación:
+--------------------------
+Servidor Web (Apache 1.3 2.X, ISS)
+Base de Datos (MySQL 4.0 - Superior)
+Interprete (PHP 4.0 - Superior)
+	
+Habilitar variables globales en tu PHP, busca php.ini y cambialo a:
+register_globals = On
+
+En su caso si visualizas el código de la herramienta habilita la directiva buscando en php.ini y cambiarlo por:
+short_open_tag = On
+
+Instalación:
+------------
+- Debera crear la base de datos:
+ejemplo: helpdesk
+
+- Luego alimentaremos la base de datos con las tablas necesarias, utilizando el archivo helpdesksystem.sql, ubicado en la carpeta "sql".
+Desde linea de comando: mysql helpdesk<helpdesksystem-original.sql.
+o podra utilizar un gestor como phpMyAdmin http://www.phpmyadmin.net 
+
+Luego dirigase a:
+http://localhost/helpdesk
+
+Los datos por default para ingresar al sistema:
+Usuario: admin
+Password: admin
+
+eso es todo, muchos éxitos.
